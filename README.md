@@ -32,7 +32,7 @@ int main()
             rez[++t] = cif_rom[cnt];
             rez[++t] = cif_rom[cnt];
         }
-        else if(cif == 4)
+        else if(cif == 4) 
         {
             rez[++t] = cif_rom[5 * cnt];
             rez[++t] = cif_rom[cnt];
